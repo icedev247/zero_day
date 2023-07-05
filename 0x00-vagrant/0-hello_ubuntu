@@ -1,1 +1,1 @@
-print system information
+Prints the kernel name, version, and other relevant details about the Linux system.
